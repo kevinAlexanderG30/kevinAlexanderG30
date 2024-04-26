@@ -11,12 +11,10 @@
 
 > "Why all Pascal programmers ask to live in Atlantis?"
 >> "Because it is below C level."
-
-<div display="flex" justifyContent="flex-end">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kevin.guadamuz&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
-</div>
 ---
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kevin.guadamuz&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 
+---
 ### 💻:keyboard: Languages and Tools 
 
 ### Languages<sup>*</sup>
